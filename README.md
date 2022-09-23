@@ -1,6 +1,6 @@
 # FG_22_Physics
 
-Third project for the Future Games course "Game Programming with C#" in 2022.
+Forth project for the Future Games course "Game Programming with C#" in 2022.
 
 ## Topics covered
 
